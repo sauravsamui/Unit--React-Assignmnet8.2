@@ -1,0 +1,11 @@
+.big_div{
+    border: 1px solid green;
+    
+    margin: auto;
+    margin-top: 50px;
+}
+.form_div{
+   
+    width: 30%;
+    margin: auto;
+}
